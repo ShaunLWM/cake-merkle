@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "watch": "tsc -w",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "2.6.7"
+  }
+}
